@@ -1,3 +1,3 @@
 # Scripts
 
-** -> C++ **
+Only c++ small beginer algorithms
